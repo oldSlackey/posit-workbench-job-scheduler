@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "https://ppm.publichealthscotland.org/all-r/latest"
+        "URL": "https://rie-rstudiopm.luht.scot.nhs.uk/prod-cran/latest"
       }
     ]
   },
